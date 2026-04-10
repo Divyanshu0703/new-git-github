@@ -1,5 +1,9 @@
 print("hello world")
-janfjbsdjb
-iudunfdj
 
-yeh mene github se kra hai, naaki git se
+name = "Python"  # String
+age = 30         # Integer
+
+
+
+def greet(user):
+    return f"Hello, {user}!"
