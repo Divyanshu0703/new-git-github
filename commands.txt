@@ -1,0 +1,36 @@
+ 
+   2 git init
+   3 git status
+   4 git add testing.py
+   5 git status
+   6 git commit -m testing.py
+   7 git status
+   8 git remote -v
+   9 rm testing.py
+  10 git restore testing.py
+  11 git status
+  12 git add testing.py
+  13 git status
+  14 git commit -m "added" testing.py
+  15 git status
+  16 rm testing.py
+  17 git restore testing.py
+  18 git remote -v
+  19 git remote add origin https://github.com/Divyanshu0703/new-git-github.git
+  20 git remote -v
+  21 git push origin mastere
+  22 git push origin master
+  27 git push origin master
+  28 git push origin master
+  29 git status
+  30 git add .\testing.py
+  31 git status
+  32 git commit -m testing.py
+  33 git push origin master
+  34 git pull origin master
+  35 git push origin master
+  36 git status
+  37 git add testing.py
+  38 git commmit -m testing.py
+  39 git commit -m testing.py
+  40 git push origin master
